@@ -1,3 +1,7 @@
 Användare på Github: tagepennstrom
 Namn: Tage Pennström
 Epost: tage.pennstrom.5302@studnt.uu.se
+
+Användare på GitHub: linusbrew
+Namn: Linus Brewitz
+Epost: linus.brewitz.5133@student.uu.se
